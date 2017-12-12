@@ -1,0 +1,28 @@
+{
+  "name": "ivyleague",
+  "version": "1.0.0",
+  "description": "ivy league product",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UshodayaNallola/Meanstack.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "application"
+  ],
+  "author": "Ushodaya Nallola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UshodayaNallola/Meanstack/issues"
+  },
+  "homepage": "https://github.com/UshodayaNallola/Meanstack#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7"
+  }
+}
